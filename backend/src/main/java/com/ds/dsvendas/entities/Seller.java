@@ -1,12 +1,13 @@
 package com.ds.dsvendas.entities;
 
 import javax.persistence.*;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
 @Entity
 @Table(name = "tb_sellers")
-public class Seller {
+public class Seller implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
