@@ -5,7 +5,7 @@ import Footer from "components/Footer";
 import NavBar from "components/NavBar";
 
 const Dashboard = () => {
-  console.log(process.env);
+  console.log(process.env.REACT_APP);
   return (
     <>
       <NavBar />
