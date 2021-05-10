@@ -5,7 +5,7 @@ import Footer from "components/Footer";
 import NavBar from "components/NavBar";
 
 const Dashboard = () => {
-  console.log("teste");
+  console.log(process.env);
   return (
     <>
       <NavBar />
