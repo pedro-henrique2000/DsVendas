@@ -27,7 +27,7 @@ Project developed during Semana DevSupeior (SDS3). The application consists in a
 
 ## 🔌 Running the project
 ### Backend:
-To run the frontend of the you must have installed on your computer the following technologies:
+To run the backend of the you must have installed on your computer the following technologies:
 * [Git](https://git-scm.com)
 * [PostgreSQL](https://www.postgresql.org/)
 * [Java 11](https://www.java.com/pt-BR/)
